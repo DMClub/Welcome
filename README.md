@@ -4,4 +4,4 @@ This github site is used to collect our resources, code and documention.
 
 Our meetup group can be accessed at...
 
-* [Dallas makers Club Meetup Site](https://www.meetup.com/Dallas-Makers-Club-Meetup/)
+* [Dallas Makers Club Meetup Site](https://www.meetup.com/Dallas-Makers-Club-Meetup/)
